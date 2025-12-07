@@ -3,6 +3,7 @@
 Dataset Preview and Cleaner with MediaPipe Face Detection
 Browse and curate your face dataset with visual face detection overlay
 """
+import utils.session
 import cv2
 import time
 import mediapipe as mp

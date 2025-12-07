@@ -1,3 +1,4 @@
 /dataset/
-/models/
 /realtimerecognition_Rodin&Dieudonne.mp4
+config.bat
+node_modules
